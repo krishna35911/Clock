@@ -1,0 +1,15 @@
+body
+{
+    background-color: black;
+}
+
+.clk
+{
+    height:90vh;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;  /* these three properties work only if width and height are set to a value in 'vh' and '%' */
+    font-size: 60px;
+}
